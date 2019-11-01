@@ -1,4 +1,3 @@
-// import augustus from './hog-imgs/augustus_gloop.jpg'
 const hogs = [
   {
     name: 'Mudblood',
@@ -93,5 +92,4 @@ const hogs = [
   }
 ];
 
-// const hogss = hogs.map(hog => {hog.merge({url: './hog-imgs/augustus_gloop.jpg'})})
 export default hogs;
